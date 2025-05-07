@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Django, HTML/CSS, Bootstrap, Selenium, Git, SEO**
 
-- 📫 How to reach me **Alibehzad13791122@gmail.com**
+- 📫 How to reach me **Alibehzad@duck.com**
 
 - 📄 Know about my experiences https://jobvision.ir/cv/ali-behzad-191323
 
